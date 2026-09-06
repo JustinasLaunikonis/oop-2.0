@@ -1,0 +1,30 @@
+# Compiled output
+*.class
+out/
+build/
+
+# IntelliJ IDEA (keep *.iml so modules open on another machine)
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/tasks.xml
+
+# Astah lock files
+*.asta.lock
+*.asta.bak
+
+# Logs and crash dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# Archives
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# Local Claude Code guidance for learning, bug fixes, etc.
+CLAUDE.md
+CODING_CONVENTIONS.md
